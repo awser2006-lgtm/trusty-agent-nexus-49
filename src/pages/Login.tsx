@@ -42,7 +42,7 @@ export default function Login() {
 
         <Card className="card-elevated">
           <CardHeader className="space-y-1">
-            <CardTitle className="text-2xl text-center">Welcome back</CardTitle>
+            <CardTitle className="text-2xl text-center">SIGN IN</CardTitle>
             <CardDescription className="text-center">
               Enter your credentials to access your account
             </CardDescription>
