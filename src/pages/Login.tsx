@@ -44,7 +44,7 @@ export default function Login() {
               <Bot className="h-8 w-8" />
             </div>
           </div>
-          <h1 className="text-3xl font-bold text-foreground animate-slide-up">AgentEval</h1>
+          <h1 className="text-3xl font-bold text-white animate-slide-up">AgentEval</h1>
           <p className="text-muted-foreground mt-2 animate-slide-up animation-delay-200">
             Sign in to your AI Agent Evaluation platform
           </p>
